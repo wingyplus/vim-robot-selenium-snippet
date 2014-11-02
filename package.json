@@ -1,0 +1,28 @@
+{
+  "name": "vim-robot-selenium-snippet",
+  "version": "1.0.0",
+  "description": "Robot Framework Selenium2Library snippet",
+  "main": "main.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wingyplus/vim-robot-selenium-snippet.git"
+  },
+  "author": "Thanabodee Charoenpiriyakij <wingyminus@gmail.com>",
+  "license": "GPL",
+  "bugs": {
+    "url": "https://github.com/wingyplus/vim-robot-selenium-snippet/issues"
+  },
+  "homepage": "https://github.com/wingyplus/vim-robot-selenium-snippet",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13",
+    "jasmine-node": "^1.14.5"
+  },
+  "dependencies": {
+    "coffee-script": "^1.8.0",
+    "season": "^2.0.0"
+  }
+}
